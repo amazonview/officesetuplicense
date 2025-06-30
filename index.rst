@@ -10,7 +10,7 @@ Steps to Activate Office Using License Key: Updated 3 Days
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_31-removebg-preview.png
    :width: 350px
    :align: center
    :height: 100px
